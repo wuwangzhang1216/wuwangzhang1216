@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuwangzhang1216
 - 👀 I’m interested in coding and algorithm design
-- 🌱 I’m currently learning CS in UofT
+- 🌱 I’m graduated in CS and math from UofT
 - 📫 wangzhangwu1216@gmail.com
 
 <!---
