@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wuwangzhang1216
 - 👀 I’m interested in coding and algorithm design
 - 🌱 I’m graduated in CS and math from UofT
-- 📫 wangzhangwu1216@gmail.com
+- 📫 wangzhangwu.com
 
 <!---
 wuwangzhang1216/wuwangzhang1216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
