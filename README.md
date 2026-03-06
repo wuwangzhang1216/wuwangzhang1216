@@ -1,13 +1,12 @@
 # Hey, I'm Steve Wu 👋
 
-**Senior Developer @ SequoiaDB | Co-founder @ [doXmind](https://doxmind.com)**
+**Senior Developer @ SequoiaDB**
 
 Building AI-native tools that actually ship.
 
 ---
 
 ### 🚀 What I'm Working On
-- 🔥 **[doXmind](https://doxmind.com)** — AI-native document platform (think Cursor, but for writing)
 - 🔍 Vector search engines & RAG pipelines at scale
 - 🤖 Multi-agent systems with LangChain/LangGraph
 
