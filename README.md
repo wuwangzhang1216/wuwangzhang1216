@@ -66,9 +66,7 @@ Building AI-native tools that actually ship. Obsessed with making large language
 ---
 
 ### 🎓 Background
-- 🏫 **CS + Math @ University of Toronto** (High Distinction, 3.95 GPA)
 - 💼 10+ years in Databases, LLMs & AI Agent Systems
-- 🔬 Open-source contributor — LLM abliteration tools ([Prometheus](https://pypi.org/project/prometheus-llm/)) & fine-tuned models on HuggingFace
 
 ---
 
