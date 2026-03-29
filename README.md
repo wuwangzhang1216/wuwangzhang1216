@@ -75,9 +75,7 @@ Building AI-native tools that actually ship. Obsessed with making large language
 ### 📫 Connect
 
 [![Website](https://img.shields.io/badge/-wangzhangwu.com-000000?style=flat&logo=About.me&logoColor=white)](https://www.wangzhangwu.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wangzhang-wu-50344b1ab/)
 [![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/wangzhang)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wangzhang.wu@alumni.utoronto.ca)
 
 <!---
 wuwangzhang1216/wuwangzhang1216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
