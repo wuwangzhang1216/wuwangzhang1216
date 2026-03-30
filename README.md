@@ -69,10 +69,6 @@ Building AI-native tools that actually ship. Obsessed with making large language
 - 💼 10+ years in Databases, LLMs & AI Agent Systems
 
 ---
-
-### 📫 Connect
-
-[![Website](https://img.shields.io/badge/-wangzhangwu.com-000000?style=flat&logo=About.me&logoColor=white)](https://www.wangzhangwu.com)
 [![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/wangzhang)
 
 <!---
