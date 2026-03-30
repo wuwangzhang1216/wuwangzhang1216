@@ -1,4 +1,4 @@
-# Hey, I'm Steve Wu 👋
+# Hey, I'm Steve Neal 👋
 
 **AI Engineer & LLM Researcher**
 
