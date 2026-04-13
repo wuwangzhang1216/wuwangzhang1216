@@ -1,4 +1,4 @@
-# Hey, I'm Steve Neal 👋
+# Hey, I'm Steve Wu 👋
 
 **AI Engineer & LLM Researcher**
 
@@ -7,11 +7,13 @@ Building AI-native tools that actually ship. Obsessed with making large language
 ---
 
 ### 🚀 What I'm Working On
+- 🔬 [**Abliterix**](https://github.com/wuwangzhang1216/abliterix) — Fully automated LLM abliteration framework. LoRA + Optuna TPE optimization, 135+ model configs, 9 peer-reviewed techniques (NeurIPS/ACL/ICLR). 0–1.5% refusal rate with 0.01 KL divergence.
+- 🗄️ [**OpenDB**](https://github.com/wuwangzhang1216/openDB) — AI-native database & long-term memory for AI agents. 93.6% on LongMemEval (#3 on leaderboard), zero embeddings, zero vector DBs — just SQLite FTS5. 12 MCP tools, works with every major agent framework.
+- 🦬 [**OpenYak**](https://github.com/openyak/desktop) — Open-source local-first AI desktop app supporting 100+ models
 - 🧠 LLM alignment research — abliteration, representation engineering & steering vectors
 - 🔍 Vector search engines & RAG pipelines at scale
 - 🤖 Multi-agent orchestration — built from scratch, no heavy frameworks
 - 📝 AI-native writing & knowledge systems
-- 🦬 Working on [OpenYak](https://github.com/openyak/desktop) — open-source AI desktop app
 - 🔬 Publishing fine-tuned & abliterated models on [HuggingFace](https://huggingface.co/wangzhang)
 
 ---
@@ -66,6 +68,7 @@ Building AI-native tools that actually ship. Obsessed with making large language
 ---
 
 ### 🎓 Background
+- 🎓 Honours BSc in Computer Science & Mathematics, University of Toronto (3.95/4.0)
 - 💼 10+ years in Databases, LLMs & AI Agent Systems
 
 ---
