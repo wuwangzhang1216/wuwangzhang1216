@@ -8,7 +8,6 @@ Building AI-native tools that actually ship. Obsessed with making large language
 
 ### 🚀 What I'm Working On
 - 🦬 [**OpenYak**](https://github.com/openyak/desktop) — Open-source local-first AI desktop app supporting 100+ models
-- 🗄️ [**OpenDB**](https://github.com/wuwangzhang1216/openDB) — AI-native database & long-term memory for AI agents. 93.6% on LongMemEval (#3 on leaderboard), zero embeddings, zero vector DBs — just SQLite FTS5. 12 MCP tools, works with every major agent framework.
 - 🔬 [**Abliterix**](https://github.com/wuwangzhang1216/abliterix) — Fully automated LLM abliteration framework. LoRA + Optuna TPE optimization, 135+ model configs, 9 peer-reviewed techniques (NeurIPS/ACL/ICLR). 0–1.5% refusal rate with 0.01 KL divergence.
 - 🧠 LLM alignment research — abliteration, representation engineering & steering vectors
 - 🔍 Vector search engines & RAG pipelines at scale
